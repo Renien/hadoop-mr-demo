@@ -1,0 +1,4 @@
+I love spark
+I love hadoop
+hadoop is awesome
+scala is best and awesome
